@@ -165,7 +165,7 @@ async def help(interaction: discord.Interaction):
 /fakeread <count> - 批量已讀訊息
 <count> 訊息範圍(已讀到最近第x條訊息)```"""
     embed.add_field(name = "📖 指令列表", value=text, inline=False)
-    embed.add_field(name = "❓ 不知道如何設置Cookie?", value="點擊以下連結查看教學", inline = False)
+    embed.add_field(name = "❓ 不知道如何設置Cookie?", value="點擊[連結](https://github.com/pictures2333/1campus-dcbot/blob/master/SetCookie.md)查看教學", inline = False)
     embed.add_field(name = "🦊 她是白上吹雪", value="一隻超可愛的狐狸~", inline = False)
     embed.set_image(url = "https://c.tenor.com/wm_jigc51u8AAAAC/tenor.gif")
     
