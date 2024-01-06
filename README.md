@@ -1,6 +1,6 @@
 # 1campus-dcbot
 
-## Author
+## Developer
 
 Reverse - [X1ulan](https://github.com/x1ulan) (⚡⚡⚡)
 
